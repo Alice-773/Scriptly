@@ -160,11 +160,10 @@ Este projeto foi desenvolvido como um protótipo Front-End de alta fidelidade ut
 
 ### Protótipo
 
-[[Inserir link do deploy]
-](https://alice-773.github.io/Scriptly/)
+[[Link do Deploy](https://alice-773.github.io/Scriptly/index.html)]
 ### Apresentação do Projeto
 
-[[Inserir link da apresentação](https://www.figma.com/proto/34A3pla7fgUZw4t7ECdWRr/Scriptly?node-id=0-1&t=273hECm7TOg11Mk6-1)]
+[[Link da apresentação](https://www.figma.com/proto/34A3pla7fgUZw4t7ECdWRr/Scriptly?node-id=0-1&t=273hECm7TOg11Mk6-1)]
 
 ---
 
