@@ -160,8 +160,8 @@ Este projeto foi desenvolvido como um protótipo Front-End de alta fidelidade ut
 
 ### Protótipo
 
-[Inserir link do deploy]
-
+[[Inserir link do deploy]
+](https://alice-773.github.io/Scriptly/)
 ### Apresentação do Projeto
 
 [[Inserir link da apresentação](https://www.figma.com/proto/34A3pla7fgUZw4t7ECdWRr/Scriptly?node-id=0-1&t=273hECm7TOg11Mk6-1)]
@@ -198,5 +198,3 @@ Caso implementado, o Scriptly poderia gerar benefícios para todo o ecossistema 
 **Sarah Alice Severo Queiroz**
 
 Projeto desenvolvido para o Processo Seletivo YouShop 2026.
-
-> "Menos tempo criando. Mais tempo vendendo."
